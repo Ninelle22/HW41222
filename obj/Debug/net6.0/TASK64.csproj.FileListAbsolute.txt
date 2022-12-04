@@ -1,0 +1,15 @@
+D:\GEEKBRAINS\HW41222\TASK64\obj\Debug\net6.0\TASK64.csproj.AssemblyReference.cache
+D:\GEEKBRAINS\HW41222\TASK64\obj\Debug\net6.0\TASK64.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS\HW41222\TASK64\obj\Debug\net6.0\TASK64.AssemblyInfoInputs.cache
+D:\GEEKBRAINS\HW41222\TASK64\obj\Debug\net6.0\TASK64.AssemblyInfo.cs
+D:\GEEKBRAINS\HW41222\TASK64\obj\Debug\net6.0\TASK64.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS\HW41222\TASK64\bin\Debug\net6.0\TASK64.exe
+D:\GEEKBRAINS\HW41222\TASK64\bin\Debug\net6.0\TASK64.deps.json
+D:\GEEKBRAINS\HW41222\TASK64\bin\Debug\net6.0\TASK64.runtimeconfig.json
+D:\GEEKBRAINS\HW41222\TASK64\bin\Debug\net6.0\TASK64.dll
+D:\GEEKBRAINS\HW41222\TASK64\bin\Debug\net6.0\TASK64.pdb
+D:\GEEKBRAINS\HW41222\TASK64\obj\Debug\net6.0\TASK64.dll
+D:\GEEKBRAINS\HW41222\TASK64\obj\Debug\net6.0\refint\TASK64.dll
+D:\GEEKBRAINS\HW41222\TASK64\obj\Debug\net6.0\TASK64.pdb
+D:\GEEKBRAINS\HW41222\TASK64\obj\Debug\net6.0\TASK64.genruntimeconfig.cache
+D:\GEEKBRAINS\HW41222\TASK64\obj\Debug\net6.0\ref\TASK64.dll
